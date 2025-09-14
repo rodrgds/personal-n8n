@@ -1,1 +1,0 @@
-# personal-n8n
